@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, My name is MerunyaSri</h1>
+<h1 align="center">Hi 👋,this is Merunya Sri</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from Tamil Nadu,India</h3>
 
 
 - 🔭 I’m a 3rd year Computer Science Student at BIT
 
-- 🌱 I’m currently learning DSA& WEB DEVELOPMENT
-
-- 👨‍💻 A I’m looking to collaborate on web Development
-  
-- 💬 Ask me about Tech
+- 🌱 I’m currently learning DSA & WEB DEVELOPMENT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
